@@ -1,6 +1,7 @@
 # EQS - Earthquake Simulator
 ### Physics-based Seismic Wave Propagation & Intensity Engine
 *(物理演算ベース 地震波伝播・震度シミュレーター)*
+https://skotm.github.io/eqs---Earthquake-Simulator-/
 
 **EQS** は、HTML5 Canvasと最新のWeb標準技術を用いて構築された、ブラウザベースの地震シミュレーションエンジンです。
 震源からの距離減衰式、地盤増幅率（AVS30/ARV）、および非線形特性をリアルタイムで演算し、日本列島における地震波（P波・S波・表面波）の伝播と、各観測点における計測震度を精密に可視化します。
